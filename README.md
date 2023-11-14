@@ -13,7 +13,7 @@ $ python train.py
 ```
 
 
-**# val**
+# val
 ```bash
 $ python val.py
 ```
