@@ -11,8 +11,9 @@ train.py allows you to train new model from strach.
 ```bash
 $ python train.py 
 
-#val
+# val
 ```bash
 $ python val.py
 
-#If you need a dataset, please contact email 1771857577@qq.com
+# dataset
+If you need a dataset, please contact email 1771857577@qq.com
